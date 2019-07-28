@@ -25,8 +25,8 @@ mkdir 資料夾名稱 // 創建新資料夾
 並在此資料夾中依序輸入
 
 ```
-git   // 將此專案下載到資料夾
-cd                                           // 移動到專案資料夾
+git https://github.com/F-Kibatodos/final-middleware.git  // 將此專案下載到資料夾
+cd  final-middleware                                     // 移動到專案資料夾
 npm install                                              // 下載相關npm套件
 npm run dev                                              // 執行專案
 ```
