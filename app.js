@@ -1,7 +1,7 @@
 const express = require('express')
 const app = express()
 const port = 3000
-const log = require('./logQ1')
+const log = require('./logQ2')
 
 app.use(log)
 
